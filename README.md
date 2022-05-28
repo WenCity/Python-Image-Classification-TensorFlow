@@ -11,5 +11,5 @@ input pipeline
 model 
 Train the model
 Test the model
-Analysis
+Analysis.
 
